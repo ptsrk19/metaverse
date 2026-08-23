@@ -1,0 +1,12 @@
+{
+  "name": "gep-virtual-world-server",
+  "version": "1.0.0",
+  "description": "Local server that hosts the GEP Virtual World and lets the in-browser Admin panel save changes directly to index.html.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

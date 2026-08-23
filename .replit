@@ -1,0 +1,5 @@
+run = "npm install && node server.js"
+entrypoint = "server.js"
+
+[env]
+NODE_ENV = "production"
